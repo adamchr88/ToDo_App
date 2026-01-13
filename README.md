@@ -41,5 +41,15 @@ It’s a simple app, but it teaches the fundamentals behind larger programs.
 
 ## 📸 Screenshot
 
-Add a screenshot after you push one:
+![To-Do App Screenshot](screenshots/ToDoAppGUI.png)
+
+---
+
+## ▶️ How to Run
+
+### 1) Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+
 
